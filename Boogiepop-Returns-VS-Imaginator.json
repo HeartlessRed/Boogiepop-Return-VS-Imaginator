@@ -1,0 +1,17 @@
+{
+   "title":"Boogiepop Return: VS Imaginator",
+   "description": "N/A"
+   "artist":"Etsumizu Naoki",
+   "author":"Kadono Kouhei",
+   "cover":"https://i.imgur.com/JW2rN1Y.png",
+   "chapters":{
+      "1":{
+         "title":"Chapter 1",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/wCc4qB2/"
+         },
+         "last_updated":"1635702509"
+      }
+   }
+}
