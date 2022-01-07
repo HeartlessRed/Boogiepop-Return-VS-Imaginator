@@ -21,11 +21,19 @@
          },
          "last_updated":"1635702509"
       },
-       "3":{
+      "3":{
          "title":"Brainwashing",
          "volume":"1",
          "groups":{
             "Tokumei":"/proxy/api/imgur/chapter/SSLSM5B/"
+         },
+         "last_updated":"1635702509"
+      },
+	"4":{
+         "title":"Emotions",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/MDzGYI8/"
          },
          "last_updated":"1635702509"
       }
