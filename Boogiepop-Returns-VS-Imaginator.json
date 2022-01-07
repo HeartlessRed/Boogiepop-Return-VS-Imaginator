@@ -36,6 +36,14 @@
             "Tokumei":"/proxy/api/imgur/chapter/MDzGYI8/"
          },
          "last_updated":"1635702509"
+	},
+	   "5":{
+         "title":"The End of Everyday Life",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/uGOejlk/"
+         },
+         "last_updated":"1635702509"
       }
    }
 }
