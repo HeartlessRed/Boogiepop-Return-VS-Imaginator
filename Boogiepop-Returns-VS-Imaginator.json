@@ -54,10 +54,18 @@
          "last_updated":"1635702509"
 	   },
 	   "6":{
-         "title":"Flowers in the heart",
+         "title":"Flower in the Heart",
          "volume":"2",
          "groups":{
             "Tokumei":"/proxy/api/imgur/chapter/6jbEsit/"
+         },
+         "last_updated":"1635702509"
+	   },
+	   "7":{
+         "title":"Calling",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/mSGsC0G/"
          },
          "last_updated":"1635702509"
       }
