@@ -68,6 +68,14 @@
             "Tokumei":"/proxy/api/imgur/chapter/M9ptSvr/"
          },
          "last_updated":"1635702509"
+	   },
+	   "8":{
+         "title":"What lies beyond Determination",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/Q7PIySh/"
+         },
+         "last_updated":"1635702509"
       }
    }
 }
