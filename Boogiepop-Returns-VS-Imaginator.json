@@ -84,6 +84,14 @@
             "Tokumei":"/proxy/api/imgur/chapter/TlBay8A/"
          },
          "last_updated":"1635702509"
+	   },
+	   "10":{
+         "title":"Ally of Justice",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/bXzcotB/"
+         },
+         "last_updated":"1635702509"
       }
    }
 }
