@@ -92,6 +92,14 @@
             "Tokumei":"/proxy/api/imgur/chapter/bXzcotB/"
          },
          "last_updated":"1635702509"
+	   },
+	   "11":{
+         "title":"VS Imaginator",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/EnVTfbk/"
+         },
+         "last_updated":"1635702509"
       }
    }
 }
